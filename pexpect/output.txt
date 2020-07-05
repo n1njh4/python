@@ -1,0 +1,4 @@
+(Python3.8.2) [n1njh4@Katana:~/Github/python/pexpect]$ python human.py 
+Are you human?(y/n)y
+y
+You are human
